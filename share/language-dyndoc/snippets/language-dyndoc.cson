@@ -1,0 +1,7 @@
+'.text.dyndoc':
+  'Instr':
+    'prefix': 'i'
+    'body': '{#${1:name}]$0\n[#$1}'
+  'Tag':
+    'prefix': 'a'
+    'body': '[#${1:name}]'
